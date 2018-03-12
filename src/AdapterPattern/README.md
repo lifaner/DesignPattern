@@ -1,0 +1,1 @@
+实现一个适配器  可以将播放MP3的audioplayer播放mp4 vlc
